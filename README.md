@@ -31,26 +31,18 @@
 - The ability to translate complex data into stories people can understand and use  
  
 ---
- 
-## 👩‍💻 What I’m Currently Doing
- 
-- 🌌 **Exploring time-series patterns in geomagnetic data and refining the K-index using statistical scaling**  
-- 🏗 **Building clean, modular workflows for predictive modeling and signal analysis**  
-- 🤝 **Collaborating on data + design projects that combine visuals with machine learning insights**
- 
----
- 
+  
 ## 🧩 Things I’d Love to Work On
  
 - **🌟 Hybrid projects that mix data analysis with creative tech or design**  
 - **💡 Tools that make complex ideas easier to understand**  
-- **🌍 Real-world applications of AI in climate, energy, or education**
+- **🌍 Real-world applications of AI**
  
 ---
  
 ## 🌱 My Learning Adventure
  
-- 📘 Improving my skills in deep learning and LSTM forecasting  
+- 📘 Improving my skills in coding  
 - 🌐 Learning more about full-stack data apps and dashboard deployment  
 - 🎯 Exploring creative uses of data storytelling and visual narratives
  
