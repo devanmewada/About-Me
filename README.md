@@ -66,6 +66,6 @@ When I’m not coding, you’ll find me:
  
 ### ✨ Fun Fact:  
  
-I see the world in layers—data layers, color layers, sound layers. And I love turning them into something meaningful.
+I see the world in layers, data layers, color layers, sound layers. And I love turning them into something meaningful.
 
 ---
